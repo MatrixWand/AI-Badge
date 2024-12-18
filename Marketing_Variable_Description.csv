@@ -1,0 +1,11 @@
+Column Name,Description
+Campaign_Budget,"The total budget allocated to the marketing campaign, measured in USD."
+Ad_Click_Rate,"The click-through rate (CTR) of online ads, representing the percentage of people who clicked on the ad."
+Conversion_Rate,"The percentage of ad clicks that led to successful conversions, such as purchases or leads."
+Social_Media_Followers,The total number of social media followers for the brand across platforms.
+Email_Open_Rate,"The percentage of marketing emails that were opened by recipients, indicating the effectiveness of email campaigns."
+Customer_Retention_Rate,The percentage of customers who remain loyal to the brand over a specific period of time.
+Platform,"The platform where the marketing campaign was run (e.g., Facebook, Instagram, Google Ads, etc.)."
+Campaign_Type,"The type of marketing campaign (e.g., Brand Awareness, Lead Generation, Sales Promotion, Content Marketing)."
+Target_Audience,"The primary demographic targeted by the campaign (e.g., Millennials, Gen Z, Boomers, Gen X)."
+Region,"The geographic region where the marketing campaign is focused (e.g., North America, Europe, Asia)."
